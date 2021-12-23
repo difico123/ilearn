@@ -272,7 +272,7 @@ function Header({ user }) {
       <Home>
         <Link to={`/`}>
         <Bgheader></Bgheader>
-          <div>Trang chủ</div>
+          <div>Ilean</div>
         </Link>
       </Home>
       <Right>
